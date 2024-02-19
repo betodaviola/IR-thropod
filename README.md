@@ -17,7 +17,7 @@ const char* kPassword = "*****";
 
 
 For anyone trying to attempt this, more important than my code are the tutorials I followed to achieve the final results:
-- Ravi Singh's [How to make a DIY IR Blaster using ESP8266](https://techposts.org/make-diy-ir-blaster-esp8266-nodemcu/): This is the most important tutorial used on this project. Stil, I was very unhappy with the solution of using http shortcuts to control things.
+- Ravi Singh's [How to make a DIY IR Blaster using ESP8266](https://techposts.org/make-diy-ir-blaster-esp8266-nodemcu/): This is the most important tutorial used on this project. Stil, I was very unhappy with the solution of using http shortcuts to control things, since I wanted friends and guest to be abble to use the controler as well.
 - [ESP32/ESP8266 Web Server: Control Outputs with Momentary Switch](https://randomnerdtutorials.com/esp32-esp8266-web-server-outputs-momentary-switch/), by Random Nerd Tutorials: this short exercise/tutorial helped me to grasp the proccess of creating a button that could be used in place of the links that are in the screen when you access the webserver in the first tutorial
 - techtutorialsx's [ESP8266 HTTP server: Serving HTML, Javascript and CSS](https://techtutorialsx.com/2016/10/15/esp8266-http-server-serving-html-javascript-and-css/#google_vignette): this tutorial helped me understand better what I was doing with the Arduino code, and finally helped me style it the way I wanted
 
